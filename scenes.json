@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-02T16:37:57.391Z",
+  "updated": "2026-08-02T17:01:19.336Z",
   "scenes": [
     {
       "id": "smr7u8ix7",
@@ -348,6 +348,32 @@
         "hmax": 200,
         "invert": false,
         "baked": true
+      }
+    },
+    {
+      "id": "smsc1rhbf",
+      "name": "gs_",
+      "file": "scenes/smsc1rhbf.splat",
+      "lng": 38.4933,
+      "lat": 48.948,
+      "alt": 167.5,
+      "rx": -76.5,
+      "ry": 18,
+      "rz": 0,
+      "scale": 1,
+      "visible": true,
+      "count": 1054079,
+      "size": 33730528,
+      "v": 0,
+      "crop": {
+        "on": false,
+        "shape": "ellipse",
+        "rot": 0,
+        "rx": 100,
+        "ry": 100,
+        "hmin": -50,
+        "hmax": 200,
+        "baked": false
       }
     }
   ]
